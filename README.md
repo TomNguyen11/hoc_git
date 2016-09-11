@@ -1,2 +1,1 @@
-# hoc_git
-First Repository
+#The first content.
